@@ -1,2 +1,2 @@
-# XGB
-I solve some tabular tasks with Extreme Gradient Boosting
+# Training Area
+This is my traning area while my progess learning
