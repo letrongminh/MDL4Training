@@ -1,2 +1,2 @@
 # Training Area
-This is my traning area while my progess learning
+This is my traning area during my progess learning 😢
